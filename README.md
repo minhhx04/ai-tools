@@ -21,3 +21,5 @@
 ## Development Environments
 * **VS Code**: : Offers various AI-powered extensions that provide code completions, refactoring suggestions, and more.
 * **IntelliJ IDEA**: Integrates AI features to assist with code completions, error detection, and performance optimization.
+
+***
